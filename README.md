@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+Hi 👋, I'm Thanh Truc
+A third-year Information Technology student, with a goal to become a Software Engineer.
+</p>
 
 <!--
 **TrucThanh278/TrucThanh278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
