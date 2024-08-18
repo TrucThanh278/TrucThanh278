@@ -11,9 +11,9 @@ A third-year Information Technology student, with a goal to become a Software En
                 <li>💬 Ask me about Spring Framework, ReactJs & Django</li>
                 <li>📫 How to reach me trucntt278.work@gmail.com</li>
         </ul>
-        <p align="right">
-  <img src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" alt="via GIPHY">
-</p>
+        <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 </div>
 
 
