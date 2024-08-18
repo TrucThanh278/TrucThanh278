@@ -1,6 +1,6 @@
+<h1 align="center">Hi 👋, I'm Thanh Truc</h1>
 <p align="center">
-#Hi 👋, I'm Thanh Truc
-#A third-year Information Technology student, with a goal to become a Software Engineer.
+A third-year Information Technology student, with a goal to become a Software Engineer.
 </p>
 
 <!--
