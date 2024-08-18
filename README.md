@@ -4,9 +4,9 @@ A third-year Information Technology student, with a goal to become a Software En
 </p>
 
 <div>
-  -🌱 I'm currently studying at Ho Chi Minh Open University
+  - 🌱 I'm currently studying at Ho Chi Minh Open University
 
-  - 👯 I’m looking to collaborate on GitHub
+  * 👯 I’m looking to collaborate on GitHub
 
   - 🤔 I’m looking for help with code!
 
