@@ -4,15 +4,15 @@ A third-year Information Technology student, with a goal to become a Software En
 </p>
 
 <div>
-- 🌱 I'm currently studying at Ho Chi Minh Open University
+  -🌱 I'm currently studying at Ho Chi Minh Open University
 
-- 👯 I’m looking to collaborate on github
+  - 👯 I’m looking to collaborate on GitHub
 
-- 🤔 I’m looking for help with code!
+  - 🤔 I’m looking for help with code!
 
-- 💬 Ask me about Spring Framework, ReactJs & Django
+  - 💬 Ask me about Spring Framework, ReactJs & Django
 
-- 📫 How to reach me trucntt278.work@gmail.com
+  - 📫 How to reach me trucntt278.work@gmail.com
 
 </div>
 
