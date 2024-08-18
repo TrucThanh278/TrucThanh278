@@ -3,15 +3,15 @@
 A third-year Information Technology student, with a goal to become a Software Engineer.
 </p>
 
-<div align="left"> 
-        <ul>
-                <li>🌱 I'm currently studying at Ho Chi Minh Open University</li>
-                <li>👯 I’m looking to collaborate on GitHub</li>
-                <li>🤔 I’m looking for help with code!</li>
-                <li>💬 Ask me about Spring Framework, ReactJs & Django</li>
-                <li>📫 How to reach me trucntt278.work@gmail.com</li>
-        </ul>
-</div>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently studying at Ho Chi Minh Open University ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 <img align="right" width="100" height="100" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47lxfwdxy9cmwah4gpjm09ldehtu03706znr2gjkw5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <!--
@@ -27,4 +27,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+<div align="left" > 
+        <ul>
+                <li>🌱 I'm currently studying at Ho Chi Minh Open University</li>
+                <li>👯 I’m looking to collaborate on GitHub</li>
+                <li>🤔 I’m looking for help with code!</li>
+                <li>💬 Ask me about Spring Framework, ReactJs & Django</li>
+                <li>📫 How to reach me trucntt278.work@gmail.com</li>
+        </ul>
+</div>
 -->
