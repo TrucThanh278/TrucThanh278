@@ -1,5 +1,4 @@
-#Hi 👋, I'm [Truc Nguyen Thanh](https://github.com/TrucThanh278)
-<h1 align="center" > #Hi 👋, I'm [Truc Nguyen Thanh](https://github.com/TrucThanh278) </h1>
+<h1 align="center" > Hi 👋, I'm <a href="https://github.com/TrucThanh278">Truc Nguyen Thanh</a> </h1>
 <p align="center">
 A third-year Information Technology student, with a goal to become a Software Engineer.
 </p>
