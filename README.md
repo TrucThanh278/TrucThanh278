@@ -3,7 +3,7 @@
 A third-year Information Technology student, with a goal to become a Software Engineer.
 </p>
 
-<div> 
+<div align="left"> 
         <ul>
                 <li>🌱 I'm currently studying at Ho Chi Minh Open University</li>
                 <li>👯 I’m looking to collaborate on GitHub</li>
@@ -12,6 +12,7 @@ A third-year Information Technology student, with a goal to become a Software En
                 <li>📫 How to reach me trucntt278.work@gmail.com</li>
         </ul>
 </div>
+<img align="right" width="100" height="100" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47lxfwdxy9cmwah4gpjm09ldehtu03706znr2gjkw5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <!--
 **TrucThanh278/TrucThanh278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
