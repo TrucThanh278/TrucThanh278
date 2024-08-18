@@ -3,6 +3,19 @@
 A third-year Information Technology student, with a goal to become a Software Engineer.
 </p>
 
+<div>
+- 🌱 I'm currently studying at Ho Chi Minh Open University
+
+- 👯 I’m looking to collaborate on github
+
+- 🤔 I’m looking for help with code!
+
+- 💬 Ask me about Spring Framework, ReactJs & Django
+
+- 📫 How to reach me trucntt278.work@gmail.com
+
+</div>
+
 <!--
 **TrucThanh278/TrucThanh278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
