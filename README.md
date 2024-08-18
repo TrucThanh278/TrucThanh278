@@ -3,17 +3,14 @@
 A third-year Information Technology student, with a goal to become a Software Engineer.
 </p>
 
-<div>
-        + 🌱 I'm currently studying at Ho Chi Minh Open University
-
-  + 👯 I’m looking to collaborate on GitHub
-
-  + 🤔 I’m looking for help with code!
-
-  + 💬 Ask me about Spring Framework, ReactJs & Django
-
-  + 📫 How to reach me trucntt278.work@gmail.com
-
+<div> 
+        <ul>
+                <li>🌱 I'm currently studying at Ho Chi Minh Open University</li>
+                <li>👯 I’m looking to collaborate on GitHub</li>
+                <li>🤔 I’m looking for help with code!</li>
+                <li>💬 Ask me about Spring Framework, ReactJs & Django</li>
+                <li>📫 How to reach me trucntt278.work@gmail.com</li>
+        </ul>
 </div>
 
 <!--
