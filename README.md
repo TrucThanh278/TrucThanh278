@@ -12,7 +12,7 @@ A third-year Information Technology student, with a goal to become a Software En
         <li>📫 How to reach me trucntt278.work@gmail.com</li>
 </ul>
         
-  <img  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzY3Ym5kcmtnamtkenI3dHZvbm52ZG84ZXR0c2I3eHFmZnIzNW1mcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" align="right"/>
+  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzY3Ym5kcmtnamtkenI3dHZvbm52ZG84ZXR0c2I3eHFmZnIzNW1mcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" />
 
 
 
